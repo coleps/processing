@@ -1,0 +1,7 @@
+﻿I think my final project shares a lot of similarities with the glitch art we studied at the beginning of the semester. Both use code to generate art, and both twist the technology to produce a desired output. In my sketch, there is a sort of narrative arc that unfolds. At the beginning, there is nothing. Then, the user is introduced to windows that they can interact with. The generation of windows continues to accelerate. The user can interact with or close these windows. Finally, there is an ending, which is when the production of windows exceeds the rate at which the user can close windows and the memory limits of the process, and the sketch crashes. There is no line of code that tells the sketch to finish, but the sketch always ends, without fail. Like with glitch artwork, I bring a part of the underlying technology forward, in this case using the memory limits to serve my story. 
+
+
+Another similarity is that the “glitch” changes depending on the environment in which it is created. Systems with more memory capacity will have a sketch that lasts longer than others. 
+
+
+There are a mix of interactive windows and non-interactive windows. All windows can be closed by pressing the ‘X’ button in the corner. One new addition that may have an unclear function is the “virus” window. This window has a green background with arrows pointing toward the center. The window is infected. Hovering over the center circle will infect nearby windows.
